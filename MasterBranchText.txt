@@ -1,1 +1,2 @@
 Этот файл - master branch
+Это новый текст - bugFix branch
